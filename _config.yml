@@ -97,7 +97,7 @@ social:
     desc: Connect with me on LinkedIn
     share: true
 
-    - name: Instagram
+  - name: Instagram
     icon: instagram
     username: gabrielalves92
     url: ""
