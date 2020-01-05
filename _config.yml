@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site
 cover: "/assets/New_cover.jpg"
 logo: "/assets/Sports_logo.PNG"
 
-# Build settings
+# Build settings 1
 markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
