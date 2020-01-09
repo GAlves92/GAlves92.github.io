@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: Soccer
+permalink: /soccer/
 main_nav: true
 ---
 
