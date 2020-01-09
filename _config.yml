@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/green-net.jpg"
-logo: "/assets/Sports_logo.PNG"
+logo: "/assets/Light_bulb.PNG"
 
 # Build settings 
 markdown: kramdown
