@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Sports Data Nerd
+title: Datanator
 subtitle: "An analitical and visual way ilustrating sports numbers and trends."
 email: alvesgp19@gmail.com
 name: Gabriel Alves
