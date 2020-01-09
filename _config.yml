@@ -20,10 +20,10 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/New_cover.jpg"
+cover: "/assets/background_link.jpg"
 logo: "/assets/Sports_logo.PNG"
 
-# Build settings 1
+# Build settings 
 markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
