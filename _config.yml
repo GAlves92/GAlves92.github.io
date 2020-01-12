@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/green-net.jpg"
-logo: "/assets/robot.png"
+logo: "/assets/NEWheader.PNG"
 
 # Build settings 
 markdown: kramdown
@@ -108,7 +108,7 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/assets/robot.png"
+    fb_image: "/assets/assets/NEWheader.PNG"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
