@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: THE DATAnator
-subtitle: "An analitical and visual way ilustrating THE MOST EXCITING SPORTS in numbers and trends."
+subtitle: "An analitical and visual way of ilustrating a few sports utilizing numbers and searching for trends."
 email: alvesgp19@gmail.com
 name: Gabriel Alves
 description: >
-  An analitical and visual way ilustrating sports numbers and trends. 
+  An analitical and visual way of ilustrating a few sports utilizing numbers and searching for trends. 
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -108,7 +108,7 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/Sports_logo.PNG"
+    fb_image: "/assets/assets/robot.png"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
